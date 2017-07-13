@@ -1,0 +1,4 @@
+you can use compile command like this:
+g++ -std=c++11 -o ReadBookSaleRecord ReadBookSaleRecord.cpp
+
+yes, "-std=c++11" is the key word!
